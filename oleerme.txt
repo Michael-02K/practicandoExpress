@@ -1,0 +1,6 @@
+node clave mongodb
+
+michaelmichaelcorrea
+xJhhaAoc6LqoyE0D
+
+mongodb+srv://michaelmichaelcorrea:xJhhaAoc6LqoyE0D@cluster0.xkfqvfd.mongodb.net/dbapi?retryWrites=true&w=majority
